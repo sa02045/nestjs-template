@@ -1,4 +1,4 @@
-nestjs + postgresql + TypeORM + graphQL + jwt + kakaoOauth
+nestjs(8.2.0) + postgresql(14.1) + TypeORM + graphQL + jwt + kakaoOauth
 
 # DB
 
